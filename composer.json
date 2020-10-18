@@ -85,6 +85,5 @@
             "url": "https://github.com/abderrazzak-oxa/laravel-support"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "minimum-stability": "dev"
 }
